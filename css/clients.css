@@ -1,0 +1,50 @@
+.pdf-icon
+{
+    height: 50px;
+    width: auto;
+    vertical-align: -90%;
+}
+
+.report
+{
+    font-size: 12pt;
+    border-bottom: #444 dotted 1px;
+}
+
+.report a:hover
+{
+    text-decoration: none;
+}
+
+.report-info a
+{
+    color: #222;
+}
+
+.client
+{
+    text-align: center;
+
+}
+
+.page-header
+{
+    text-align: left;
+}
+
+.partner-list
+{
+    text-align: left;
+    margin-left: 140px;
+    font-size: 13pt;
+}
+
+.partner-list a
+{
+    color: #222;
+}
+
+.partner-list a:hover
+{
+    text-decoration: none;
+}

@@ -1,0 +1,112 @@
+#logo img
+{
+  height: 70px;
+  margin-top: 20px;
+}
+
+#opener
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#opener img
+{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: : 5px 5px 0px 0px;
+}
+
+#opener 
+{ 
+   position: relative; 
+}
+
+#opener #quote1 { 
+   position: absolute; 
+   top: 30px; 
+   left: 550px; 
+   color: #fff;
+   
+}
+
+#quotetext1
+{
+    text-shadow: 5px 5px 5px #222;
+   font-size: 16pt;
+   font-style: italic;
+}
+
+#quote1 p { 
+    position: absolute;
+    margin-top: 5px;
+    left: 200px;
+   text-shadow: 3px 3px 3px #222;
+   font-style: italic;
+}
+
+#opener #quote2 { 
+   position: absolute; 
+   top: 110px; 
+   left: 480px; 
+   color: #fff;
+   
+}
+
+#quotetext2
+{
+    text-shadow: 5px 5px 5px #222;
+   font-size: 16pt;
+   font-style: italic;
+}
+
+#quote2 p { 
+    position: absolute;
+    margin-top: 5px;
+    left: 305px;
+   text-shadow: 3px 3px 3px #222;
+   font-style: italic;
+}
+
+#opener #quote3 { 
+   position: absolute; 
+   top: 200px; 
+   left: 575px; 
+   width: 100%; 
+   color: #fff;
+   width: 350px;
+}
+
+#quotetext3
+{
+    text-shadow: 3px 3px 3px #222;
+   font-size: 16pt;
+   font-style: italic;
+}
+
+#quote3 p { 
+    position: absolute;
+    margin-top: 5px;
+    left: 200px;
+    text-shadow: 3px 3px 3px #222;
+    font-style: italic;
+}
+
+#about
+{
+    padding: 10px;
+}
+
+#about h1
+{
+    margin-left: 15px;
+    width: 100%;
+    display: block;
+}
+
+#about p
+{
+    margin: 15px;
+    font-size: 10pt;
+}

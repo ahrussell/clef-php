@@ -1,0 +1,46 @@
+.profpic
+{
+    max-height:150px;
+    max-width: 115px;
+    margin-left: 10px;
+}
+
+.bio 
+{
+    margin-top: 0px;
+}
+
+.page-header
+{
+    margin-bottom: 0px;
+}
+
+.row-fluid
+{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.partner-link
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.partner-link :hover
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.partner-link :active
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.partner-link :link
+{
+    text-decoration: none;
+    color: inherit;
+}

@@ -1,0 +1,66 @@
+.bio 
+{
+    margin-top: 10px;
+    font-size: 8pt;
+}
+
+.page-header
+{
+    margin: 0px;
+}
+
+h4 
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+h3
+{
+    margin-bottom: 0px;
+}
+
+.row-fluid
+{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding:0px;
+}
+
+.advisor
+{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.advisor-link
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.advisor-link :hover
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.advisor-link :active
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.advisor-link :link
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.thanks
+{
+    margin: 20px;
+    font-size: 13pt;
+}
