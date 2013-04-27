@@ -4,8 +4,8 @@
 
         static $instance;
         protected $connectionInfo = array(
-            'user' => 'pomonamo',
-            'password' => "Fool3ry#7833",
+            'user' => 'user',
+            'password' => "password",
             'host' => "localhost"
             );
         protected $connection;

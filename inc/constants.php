@@ -1,3 +1,3 @@
 <?php
-    define("DB_NAME", "pomonamo_clef");
+    define("DB_NAME", "database name");
 ?>
