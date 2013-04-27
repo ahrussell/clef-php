@@ -83,10 +83,10 @@
 
                             // list users - the current user will be listed as "You" rather than "Joe Plumber"
                             foreach($users as $user) { ?>
-                                <tr class="<?=$user['id'] == $_SESSION['uid'] ? 'info' : '';?>"> 
+                                <tr class="<?=$user['id'] === $_SESSION['uid'] ? 'info' : '';?>"> 
                                     <td><?=$k++;?></td>
 
-                                    <?php if($user['id'] == $_SESSION['uid']) { ?>
+                                    <?php if($user['id'] === $_SESSION['uid']) { ?>
                                         <td>You</td>
                                     <?php } else { ?>
                                         <td><?=$user["name"];?></td>
